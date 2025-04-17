@@ -12,4 +12,4 @@ Open this repo in Gitpod and:
 
 ## 🔗 Launch in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YOUR_USER/jenkins-gitpod-demo)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Byron-personal-git/jenkins-gitpod-demo)
